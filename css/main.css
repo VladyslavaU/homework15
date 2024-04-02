@@ -1,0 +1,35 @@
+.container-fluid {
+    text-align: center;
+    background-color: #d69a5b;
+    color: #334737;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+}
+
+.navbar, .btn, .card, footer, .dropdown-menu, .dropdown-item, .navbar-brand,
+.dropdown-menu, .dropdown-item, a, a:hover, .btn, .btn:hover {
+    background-color: #334537;
+    color: #db9f5e;
+}
+
+.card-body {
+    background-color: #4d5d49;
+}
+
+.btn:hover, a:hover {
+    color: #8a4208;
+}
+
+.form-control {
+    color: #db9f5e;
+}
+
+.main, footer {
+    margin-top: 2%;
+}
+
+.form-group {
+    text-align: left;
+}
